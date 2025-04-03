@@ -86,3 +86,9 @@ Click on 'run' and the job will start running:
  ![alt text](screenshots/10.png)
 
  Once you have the data in this manner, you can easily reformat it to CSV, XLSX and take it into a database platform or do just about anything else with it
+
+ Finally, the array is returned:
+
+ ![alt text](screenshots/11.png)
+
+ The output is included in this repository as a demonstration. 

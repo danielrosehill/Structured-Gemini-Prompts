@@ -1,0 +1,1248 @@
+[
+  {
+    "Occurrence Order": 1,
+    "Search Snippet": "stilted heron labored up",
+    "Surrounding Text": "A stilted heron labored up into the air and pounded down river.",
+    "Identified Word": "labored",
+    "British English Replacement": "laboured"
+  },
+  {
+    "Occurrence Order": 2,
+    "Search Snippet": "Lennie dabbled his big",
+    "Surrounding Text": "Lennie dabbled his big paw in the water and wiggled his fingers",
+    "Identified Word": "dabbled",
+    "British English Replacement": "dabbled"
+  },
+  {
+    "Occurrence Order": 3,
+    "Search Snippet": "little stretch down the highway",
+    "Surrounding Text": "‘Jes’ a little stretch down the highway,’ he says.",
+    "Identified Word": "highway",
+    "British English Replacement": "main road"
+  },
+  {
+    "Occurrence Order": 4,
+    "Search Snippet": "then in embarrassment hid",
+    "Surrounding Text": "Lennie looked startled and then in embarrassment hid his face against his knees.",
+    "Identified Word": "embarrassment",
+    "British English Replacement": "embarrassment"
+  },
+  {
+    "Occurrence Order": 5,
+    "Search Snippet": "work on a ranch like",
+    "Surrounding Text": "Well - look, we’re gonna work on a ranch like the one we come from up north",
+    "Identified Word": "ranch",
+    "British English Replacement": "farm"
+  },
+  {
+    "Occurrence Order": 6,
+    "Search Snippet": "That ranch we’re goin’",
+    "Surrounding Text": "That ranch we’re goin’ to is right down there about a quarter mile.",
+    "Identified Word": "ranch",
+    "British English Replacement": "farm"
+  },
+  {
+    "Occurrence Order": 7,
+    "Search Snippet": "Good boy. That’s swell.",
+    "Surrounding Text": "Good boy. That’s swell.",
+    "Identified Word": "swell",
+    "British English Replacement": "splendid"
+  },
+  {
+    "Occurrence Order": 8,
+    "Search Snippet": "work on a ranch, George",
+    "Surrounding Text": "We gonna work on a ranch, George.",
+    "Identified Word": "ranch",
+    "British English Replacement": "farm"
+  },
+  {
+    "Occurrence Order": 9,
+    "Search Snippet": "off toward the highway a",
+    "Surrounding Text": "Far off toward the highway a man shouted something, and another man shouted back.",
+    "Identified Word": "highway",
+    "British English Replacement": "main road"
+  },
+  {
+    "Occurrence Order": 10,
+    "Search Snippet": "get some supper? They got",
+    "Surrounding Text": "George - why ain’t we goin’ on to the ranch and get some supper?",
+    "Identified Word": "supper",
+    "British English Replacement": "dinner"
+  },
+  {
+    "Occurrence Order": 11,
+    "Search Snippet": "supper at the ranch.",
+    "Surrounding Text": "They got supper at the ranch.",
+    "Identified Word": "ranch",
+    "British English Replacement": "farm"
+  },
+  {
+    "Occurrence Order": 12,
+    "Search Snippet": "gonna have no supper?",
+    "Surrounding Text": "Ain’t we gonna have no supper?",
+    "Identified Word": "supper",
+    "British English Replacement": "dinner"
+  },
+  {
+    "Occurrence Order": 13,
+    "Search Snippet": "beans in my bindle.",
+    "Surrounding Text": "I got three cans of beans in my bindle.",
+    "Identified Word": "bindle",
+    "British English Replacement": "bundle"
+  },
+  {
+    "Occurrence Order": 14,
+    "Search Snippet": "beans and have supper.",
+    "Surrounding Text": "Then we’ll heat the beans and have supper.",
+    "Identified Word": "supper",
+    "British English Replacement": "dinner"
+  },
+  {
+    "Occurrence Order": 15,
+    "Search Snippet": "like beans with ketchup.",
+    "Surrounding Text": "Lennie said, \"I like beans with ketchup.\"",
+    "Identified Word": "ketchup",
+    "British English Replacement": "tomato sauce"
+  },
+  {
+    "Occurrence Order": 16,
+    "Search Snippet": "got no ketchup. You go",
+    "Surrounding Text": "Well, we ain’t got no ketchup.",
+    "Identified Word": "ketchup",
+    "British English Replacement": "tomato sauce"
+  },
+  {
+    "Occurrence Order": 17,
+    "Search Snippet": "do I have to sock",
+    "Surrounding Text": "You gonna give me that mouse or do I have to sock you?",
+    "Identified Word": "sock",
+    "British English Replacement": "punch"
+  },
+  {
+    "Occurrence Order": 18,
+    "Search Snippet": "George undid his bindle and",
+    "Surrounding Text": "George undid his bindle and brought out three cans of beans.",
+    "Identified Word": "bindle",
+    "British English Replacement": "bundle"
+  },
+  {
+    "Occurrence Order": 19,
+    "Search Snippet": "like ’em with ketchup.",
+    "Surrounding Text": "He said patiently, \"I like ’em with ketchup.\"",
+    "Identified Word": "ketchup",
+    "British English Replacement": "tomato sauce"
+  },
+  {
+    "Occurrence Order": 20,
+    "Search Snippet": "take my fifty bucks",
+    "Surrounding Text": "I coul' take my fifty bucks and go into town and get what‘ ever I want.",
+    "Identified Word": "bucks",
+    "British English Replacement": "quid"
+  },
+  {
+    "Occurrence Order": 21,
+    "Search Snippet": "set in a pool room",
+    "Surrounding Text": "Get a gallon of whisky, or set in a pool room and play cards or shoot pool.",
+    "Identified Word": "pool room",
+    "British English Replacement": "snooker hall"
+  },
+  {
+    "Occurrence Order": 22,
+    "Search Snippet": "want no ketchup. I wouldn’t",
+    "Surrounding Text": "I don’t want no ketchup.",
+    "Identified Word": "ketchup",
+    "British English Replacement": "tomato sauce"
+  },
+  {
+    "Occurrence Order": 23,
+    "Search Snippet": "no ketchup if it was",
+    "Surrounding Text": "I wouldn’t eat no ketchup if it was right here beside me.",
+    "Identified Word": "ketchup",
+    "British English Replacement": "tomato sauce"
+  },
+  {
+    "Occurrence Order": 24,
+    "Search Snippet": "think of the swell time",
+    "Surrounding Text": "When I think of the swell time I could have without you, I go nuts.",
+    "Identified Word": "swell",
+    "British English Replacement": "splendid"
+  },
+  {
+    "Occurrence Order": 25,
+    "Search Snippet": "you, I go nuts. I",
+    "Surrounding Text": "When I think of the swell time I could have without you, I go nuts.",
+    "Identified Word": "nuts",
+    "British English Replacement": "mad"
+  },
+  {
+    "Occurrence Order": 26,
+    "Search Snippet": "food with ketchup. I’d lay",
+    "Surrounding Text": "I don’t need no nice food with ketchup.",
+    "Identified Word": "ketchup",
+    "British English Replacement": "tomato sauce"
+  },
+  {
+    "Occurrence Order": 27,
+    "Search Snippet": "work on ranches, are the",
+    "Surrounding Text": "Guys like us, that work on ranches, are the loneliest guys in the world.",
+    "Identified Word": "ranches",
+    "British English Replacement": "farms"
+  },
+  {
+    "Occurrence Order": 28,
+    "Search Snippet": "in no bar room blowin’",
+    "Surrounding Text": "We don’t have to sit in no bar room blowin’ our jack jus’ because we got no place else to go.",
+    "Identified Word": "bar room",
+    "British English Replacement": "pub"
+  },
+  {
+    "Occurrence Order": 29,
+    "Search Snippet": "other guys gets in jail",
+    "Surrounding Text": "If them other guys gets in jail they can rot for all anybody gives a damn.",
+    "Identified Word": "jail",
+    "British English Replacement": "prison"
+  },
+  {
+    "Occurrence Order": 30,
+    "Search Snippet": "different color rabbits, George.",
+    "Surrounding Text": "Let’s have different color rabbits, George.",
+    "Identified Word": "color",
+    "British English Replacement": "colour"
+  },
+  {
+    "Occurrence Order": 31,
+    "Search Snippet": "magazines ranch men love",
+    "Surrounding Text": "those Western magazines ranch men love to read and scoff at and secretly believe.",
+    "Identified Word": "ranch",
+    "British English Replacement": "farm"
+  },
+  {
+    "Occurrence Order": 32,
+    "Search Snippet": "want no pants rabbits.",
+    "Surrounding Text": "We don’t want no pants rabbits.",
+    "Identified Word": "pants rabbits",
+    "British English Replacement": "lice"
+  },
+  {
+    "Occurrence Order": 33,
+    "Search Snippet": "come he got graybacks?",
+    "Surrounding Text": "Then how come he got graybacks?",
+    "Identified Word": "graybacks",
+    "British English Replacement": "lice"
+  },
+  {
+    "Occurrence Order": 34,
+    "Search Snippet": "bindle on the neighboring bunk",
+    "Surrounding Text": "Lennie put his bindle on the neighboring bunk and sat down.",
+    "Identified Word": "neighboring",
+    "British English Replacement": "neighbouring"
+  },
+  {
+    "Occurrence Order": 35,
+    "Search Snippet": "was a red splotch on",
+    "Surrounding Text": "And if there was a red splotch on an egg, he’d scrape it off.",
+    "Identified Word": "splotch",
+    "British English Replacement": "patch"
+  },
+  {
+    "Occurrence Order": 36,
+    "Search Snippet": "sure,\" said George skeptically.",
+    "Surrounding Text": "I ain’t so sure,\" said George skeptically.",
+    "Identified Word": "skeptically",
+    "British English Replacement": "sceptically"
+  },
+  {
+    "Occurrence Order": 37,
+    "Search Snippet": "unrolled his bindle and put",
+    "Surrounding Text": "He unrolled his bindle and put things on the shelf, his razor and bar of soap, his comb and bottle of pills, his liniment and leather wristband.",
+    "Identified Word": "bindle",
+    "British English Replacement": "bundle"
+  },
+  {
+    "Occurrence Order": 38,
+    "Search Snippet": "He was sure burned when",
+    "Surrounding Text": "He was sure burned when you wasn’t here this morning.",
+    "Identified Word": "burned",
+    "British English Replacement": "angry"
+  },
+  {
+    "Occurrence Order": 39,
+    "Search Snippet": "gives him hell when he’s mad.",
+    "Surrounding Text": "The boss gives him hell when he’s mad.",
+    "Identified Word": "mad",
+    "British English Replacement": "angry"
+  },
+  {
+    "Occurrence Order": 40,
+    "Search Snippet": "got the poop no more.",
+    "Surrounding Text": "I ain’t got the poop no more.",
+    "Identified Word": "poop",
+    "British English Replacement": "energy"
+  },
+  {
+    "Occurrence Order": 41,
+    "Search Snippet": "He wore blue jean trousers,",
+    "Surrounding Text": "He wore blue jean trousers, a flannel shirt, a black, unbuttoned vest and a black coat.",
+    "Identified Word": "jean trousers",
+    "British English Replacement": "jeans"
+  },
+  {
+    "Occurrence Order": 42,
+    "Search Snippet": "unbuttoned vest and a black",
+    "Surrounding Text": "He wore blue jean trousers, a flannel shirt, a black, unbuttoned vest and a black coat.",
+    "Identified Word": "vest",
+    "British English Replacement": "waistcoat"
+  },
+  {
+    "Occurrence Order": 43,
+    "Search Snippet": "not a laboring man.",
+    "Surrounding Text": "he wore high-heeled boots and spurs to prove he was not a laboring man.",
+    "Identified Word": "laboring",
+    "British English Replacement": "labouring"
+  },
+  {
+    "Occurrence Order": 44,
+    "Search Snippet": "driver give us a bum steer",
+    "Surrounding Text": "Bus driver give us a bum steer,",
+    "Identified Word": "bum steer",
+    "British English Replacement": "bad steer"
+  },
+  {
+    "Occurrence Order": 45,
+    "Search Snippet": "your big flapper shut",
+    "Surrounding Text": "You was gonna leave your big flapper shut and leave me do the talkin’.",
+    "Identified Word": "flapper",
+    "British English Replacement": "mouth"
+  },
+  {
+    "Occurrence Order": 46,
+    "Search Snippet": "keep your big Rapper shut",
+    "Surrounding Text": "You keep your big Rapper shut after this.",
+    "Identified Word": "Rapper",
+    "British English Replacement": "mouth"
+  },
+  {
+    "Occurrence Order": 47,
+    "Search Snippet": "nobody to get nosey.",
+    "Surrounding Text": "I don’t like nobody to get nosey.",
+    "Identified Word": "nosey",
+    "British English Replacement": "nosy"
+  },
+  {
+    "Occurrence Order": 48,
+    "Search Snippet": "reassured by the swamper’s defense.",
+    "Surrounding Text": "Rut he was reassured by the swamper’s defense.",
+    "Identified Word": "defense",
+    "British English Replacement": "defence"
+  },
+  {
+    "Occurrence Order": 49,
+    "Search Snippet": "twisted with embarrassment.",
+    "Surrounding Text": "Lennie twisted with embarrassment.",
+    "Identified Word": "embarrassment",
+    "British English Replacement": "embarrassment"
+  },
+  {
+    "Occurrence Order": 50,
+    "Search Snippet": "Curley punk is gonna get",
+    "Surrounding Text": "But this Curley punk is gonna get' hurt if he messes around with Lennie.",
+    "Identified Word": "punk",
+    "British English Replacement": "yob"
+  },
+  {
+    "Occurrence Order": 51,
+    "Search Snippet": "the swamper said skeptically.",
+    "Surrounding Text": "Well, Curley’s pretty handy,\" the swamper said skeptically.",
+    "Identified Word": "skeptically",
+    "British English Replacement": "sceptically"
+  },
+  {
+    "Occurrence Order": 52,
+    "Search Snippet": "maybe they gang up on",
+    "Surrounding Text": "and maybe they gang up on the big guy.",
+    "Identified Word": "gang up",
+    "British English Replacement": "set upon"
+  },
+  {
+    "Occurrence Order": 53,
+    "Search Snippet": "Won’t ever get canned",
+    "Surrounding Text": "Won’t ever get canned ’cause his old man’s the boss.",
+    "Identified Word": "canned",
+    "British English Replacement": "sacked"
+  },
+  {
+    "Occurrence Order": 54,
+    "Search Snippet": "Curley's pants is full of",
+    "Surrounding Text": "Maybe that's why Curley's pants is full of ants.",
+    "Identified Word": "pants",
+    "British English Replacement": "trousers"
+  },
+  {
+    "Occurrence Order": 55,
+    "Search Snippet": "take a sock at you",
+    "Surrounding Text": "he's gonna take a sock at you the first chance he gets.",
+    "Identified Word": "sock",
+    "British English Replacement": "punch"
+  },
+  {
+    "Occurrence Order": 56,
+    "Search Snippet": "let him sock me, George",
+    "Surrounding Text": "Don't let him sock me, George.",
+    "Identified Word": "sock",
+    "British English Replacement": "punch"
+  },
+  {
+    "Occurrence Order": 57,
+    "Search Snippet": "gonna get the can. Don't",
+    "Surrounding Text": "If he tangles with you, Lennie, we're gonna get the can.",
+    "Identified Word": "can",
+    "British English Replacement": "sack"
+  },
+  {
+    "Occurrence Order": 58,
+    "Search Snippet": "You ain't mad, George?",
+    "Surrounding Text": "You ain't mad, George?",
+    "Identified Word": "mad",
+    "British English Replacement": "angry"
+  },
+  {
+    "Occurrence Order": 59,
+    "Search Snippet": "I ain't mad at you",
+    "Surrounding Text": "I ain't mad at you.",
+    "Identified Word": "mad",
+    "British English Replacement": "angry"
+  },
+  {
+    "Occurrence Order": 60,
+    "Search Snippet": "I'm mad at this here",
+    "Surrounding Text": "I'm mad at this here Curley bastard.",
+    "Identified Word": "mad",
+    "British English Replacement": "angry"
+  },
+  {
+    "Occurrence Order": 61,
+    "Search Snippet": "maybe a hundred dollars.",
+    "Surrounding Text": "maybe a hundred dollars.",
+    "Identified Word": "dollars",
+    "British English Replacement": "pounds"
+  },
+  {
+    "Occurrence Order": 62,
+    "Search Snippet": "son-of-abitch socks you-let",
+    "Surrounding Text": "if the son-of-abitch socks you-let 'im have it.",
+    "Identified Word": "socks",
+    "British English Replacement": "punches"
+  },
+  {
+    "Occurrence Order": 63,
+    "Search Snippet": "piece of jail bait worse",
+    "Surrounding Text": "I never seen no piece of jail bait worse than her.",
+    "Identified Word": "jail bait",
+    "British English Replacement": "trouble"
+  },
+  {
+    "Occurrence Order": 64,
+    "Search Snippet": "From the washroom nearby",
+    "Surrounding Text": "From the washroom nearby came the sound of running water and rattling basins.",
+    "Identified Word": "washroom",
+    "British English Replacement": "lavatory"
+  },
+  {
+    "Occurrence Order": 65,
+    "Search Snippet": "prince of the ranch,",
+    "Surrounding Text": "He was a jerkline skinner, the prince of the ranch,",
+    "Identified Word": "ranch",
+    "British English Replacement": "farm"
+  },
+  {
+    "Occurrence Order": 66,
+    "Search Snippet": "fly on the wheeler's butt",
+    "Surrounding Text": "He was capable of killing a fly on the wheeler's butt with a bull whip without touching the mule.",
+    "Identified Word": "butt",
+    "British English Replacement": "backside"
+  },
+  {
+    "Occurrence Order": 67,
+    "Search Snippet": "gotta pair of punks on",
+    "Surrounding Text": "I gotta pair of punks on my team that don't know a barley bag from a blue ball.",
+    "Identified Word": "punks",
+    "British English Replacement": "yobs"
+  },
+  {
+    "Occurrence Order": 68,
+    "Search Snippet": "him he apologized, \"I",
+    "Surrounding Text": "He reached over and patted the ancient dog, and he apologized, \"I been around him so much I never notice how he stinks.\"",
+    "Identified Word": "apologized",
+    "British English Replacement": "apologised"
+  },
+  {
+    "Occurrence Order": 69,
+    "Search Snippet": "young laboring man came",
+    "Surrounding Text": "A young laboring man came in.",
+    "Identified Word": "laboring",
+    "British English Replacement": "labouring"
+  },
+  {
+    "Occurrence Order": 70,
+    "Search Snippet": "think he is a whingding.",
+    "Surrounding Text": "I think he is a whingding.",
+    "Identified Word": "whingding",
+    "British English Replacement": "cracker"
+  },
+  {
+    "Occurrence Order": 71,
+    "Search Snippet": "best dime's worth I ever",
+    "Surrounding Text": "I think your mag is the best dime's worth I ever spent.'",
+    "Identified Word": "dime's worth",
+    "British English Replacement": "ten pence worth"
+  },
+  {
+    "Occurrence Order": 72,
+    "Search Snippet": "around these big ranches much.",
+    "Surrounding Text": "You do if you been around these big ranches much.",
+    "Identified Word": "ranches",
+    "British English Replacement": "farms"
+  },
+  {
+    "Occurrence Order": 73,
+    "Search Snippet": "Sat'day tight supper an'",
+    "Surrounding Text": "He gets Sat'day tight supper an' three meals on Sunday, and he can quit Monday mornin' after breakfast without turning his hand.",
+    "Identified Word": "supper",
+    "British English Replacement": "dinner"
+  },
+  {
+    "Occurrence Order": 74,
+    "Search Snippet": "ain't she a looloo?",
+    "Surrounding Text": "Well, ain't she a looloo?",
+    "Identified Word": "looloo",
+    "British English Replacement": "right one"
+  },
+  {
+    "Occurrence Order": 75,
+    "Search Snippet": "Curley's got yella-jackets in",
+    "Surrounding Text": "Curley's got yella-jackets in his drawers, but that's all so far.",
+    "Identified Word": "yella-jackets",
+    "British English Replacement": "ants in his pants"
+  },
+  {
+    "Occurrence Order": 76,
+    "Search Snippet": "yella-jackets in his drawers,",
+    "Surrounding Text": "Curley's got yella-jackets in his drawers, but that's all so far.",
+    "Identified Word": "drawers",
+    "British English Replacement": "trousers"
+  },
+  {
+    "Occurrence Order": 77,
+    "Search Snippet": "a jail bait all set",
+    "Surrounding Text": "She's a jail bait all set on the trigger.",
+    "Identified Word": "jail bait",
+    "British English Replacement": "trouble"
+  },
+  {
+    "Occurrence Order": 78,
+    "Search Snippet": "us guys tomorra night.",
+    "Surrounding Text": "If you got idears, you ought to come in town with us guys tomorra night.",
+    "Identified Word": "tomorra",
+    "British English Replacement": "tomorrow"
+  },
+  {
+    "Occurrence Order": 79,
+    "Search Snippet": "comes the sheriff.' She never",
+    "Surrounding Text": "'Get yor coats on, girls, here comes the sheriff.'",
+    "Identified Word": "sheriff",
+    "British English Replacement": "chief constable"
+  },
+  {
+    "Occurrence Order": 80,
+    "Search Snippet": "don't want a flop, why",
+    "Surrounding Text": "If a guy don't want a flop, why he can just set in the chairs and have a couple or three shots and pass the time of day and Susy don't give a damn.",
+    "Identified Word": "flop",
+    "British English Replacement": "kip"
+  },
+  {
+    "Occurrence Order": 81,
+    "Search Snippet": "want a flop.\"",
+    "Surrounding Text": "She ain't rushin' guys through and kickin' 'em out if they don't want a flop.",
+    "Identified Word": "flop",
+    "British English Replacement": "kip"
+  },
+  {
+    "Occurrence Order": 82,
+    "Search Snippet": "look the joint over,",
+    "Surrounding Text": "Might go in and look the joint over,",
+    "Identified Word": "joint",
+    "British English Replacement": "place"
+  },
+  {
+    "Occurrence Order": 83,
+    "Search Snippet": "running a parlor house.'",
+    "Surrounding Text": "phonograph they think they're running a parlor house.'",
+    "Identified Word": "parlor house",
+    "British English Replacement": "brothel"
+  },
+  {
+    "Occurrence Order": 84,
+    "Search Snippet": "thirty-five cents a shot,",
+    "Surrounding Text": "Clara gets three bucks a crack and thirty-five cents a shot, and she don't crack no jokes.",
+    "Identified Word": "cents",
+    "British English Replacement": "pence"
+  },
+  {
+    "Occurrence Order": 85,
+    "Search Snippet": "no googoos in, neither.",
+    "Surrounding Text": "Don't let no googoos in, neither.",
+    "Identified Word": "googoos",
+    "British English Replacement": "idiots"
+  },
+  {
+    "Occurrence Order": 86,
+    "Search Snippet": "a good whore house every",
+    "Surrounding Text": "You give me a good whore house every time,",
+    "Identified Word": "whore house",
+    "British English Replacement": "brothel"
+  },
+  {
+    "Occurrence Order": 87,
+    "Search Snippet": "here jail baits is just",
+    "Surrounding Text": "These here jail baits is just set on the trigger of the hoosegow.",
+    "Identified Word": "jail baits",
+    "British English Replacement": "trouble"
+  },
+  {
+    "Occurrence Order": 88,
+    "Search Snippet": "trigger of the hoosegow.",
+    "Surrounding Text": "These here jail baits is just set on the trigger of the hoosegow.",
+    "Identified Word": "hoosegow",
+    "British English Replacement": "nick"
+  },
+  {
+    "Occurrence Order": 89,
+    "Search Snippet": "Went to grammar school?",
+    "Surrounding Text": "You remember Andy Cushman, Lennie? Went to grammar school?",
+    "Identified Word": "grammar school",
+    "British English Replacement": "primary school"
+  },
+  {
+    "Occurrence Order": 90,
+    "Search Snippet": "hundred bucks. The ol'",
+    "Surrounding Text": "Well-I could get it for six hundred bucks.",
+    "Identified Word": "bucks",
+    "British English Replacement": "quid"
+  },
+  {
+    "Occurrence Order": 91,
+    "Search Snippet": "owns it is flat bust",
+    "Surrounding Text": "The ol' people that owns it is flat bust an' the of lady needs an operation.",
+    "Identified Word": "bust",
+    "British English Replacement": "broke"
+  },
+  {
+    "Occurrence Order": 92,
+    "Search Snippet": "or a ball game, or",
+    "Surrounding Text": "S'pose they was a carnival or a circus come to town, or a ball game, or any damn thing.",
+    "Identified Word": "ball game",
+    "British English Replacement": "match"
+  },
+  {
+    "Occurrence Order": 93,
+    "Search Snippet": "pay an' scram outa here.",
+    "Surrounding Text": "then all of a sudden some day we'll go get our pay an' scram outa here.",
+    "Identified Word": "scram",
+    "British English Replacement": "scarper"
+  },
+  {
+    "Occurrence Order": 94,
+    "Search Snippet": "You God damn punk,",
+    "Surrounding Text": "You God damn punk,",
+    "Identified Word": "punk",
+    "British English Replacement": "yob"
+  },
+  {
+    "Occurrence Order": 95,
+    "Search Snippet": "over to Lennie like a terrier.",
+    "Surrounding Text": "Curley stepped over to Lennie like a terrier.",
+    "Identified Word": "lighted",
+    "British English Replacement": "lit"
+  },
+  {
+    "Occurrence Order": 96,
+    "Search Snippet": "han' is bust.",
+    "Surrounding Text": "Looks to me like ever' bone in his han' is bust.",
+    "Identified Word": "bust",
+    "British English Replacement": "broken"
+  },
+  {
+    "Occurrence Order": 97,
+    "Search Snippet": "get the candy wagon hitched",
+    "Surrounding Text": "Carlson, you get the candy wagon hitched up.",
+    "Identified Word": "candy wagon",
+    "British English Replacement": "ambulance"
+  },
+  {
+    "Occurrence Order": 98,
+    "Search Snippet": "will we get canned now?",
+    "Surrounding Text": "Slim, will we get canned now?",
+    "Identified Word": "canned",
+    "British English Replacement": "sacked"
+  },
+  {
+    "Occurrence Order": 99,
+    "Search Snippet": "get this guy canned and",
+    "Surrounding Text": "But you jus' tell an' try to get this guy canned and we'll tell ever'body, an' then will you get' the laugh.",
+    "Identified Word": "canned",
+    "British English Replacement": "sacked"
+  },
+  {
+    "Occurrence Order": 100,
+    "Search Snippet": "go in the ' wash room",
+    "Surrounding Text": "Maybe you better go in the ' wash room an' clean up your face.",
+    "Identified Word": "wash room",
+    "British English Replacement": "lavatory"
+  },
+  {
+    "Occurrence Order": 101,
+    "Search Snippet": "around any place?",
+    "Surrounding Text": "Seen him around any place?",
+    "Identified Word": "any place",
+    "British English Replacement": "anywhere"
+  },
+  {
+    "Occurrence Order": 102,
+    "Search Snippet": "move 'em someplace else.",
+    "Surrounding Text": "I wonder the old lady don't move 'em someplace else.",
+    "Identified Word": "someplace",
+    "British English Replacement": "somewhere"
+  },
+  {
+    "Occurrence Order": 103,
+    "Search Snippet": "a chicken ranch, 'bout",
+    "Surrounding Text": "My old man had a chicken ranch, 'bout ten acres.",
+    "Identified Word": "ranch",
+    "British English Replacement": "farm"
+  },
+  {
+    "Occurrence Order": 104,
+    "Search Snippet": "man on this ranch an'",
+    "Surrounding Text": "And now there ain't a colored man on this ranch an' there's jus' one family in Soledad.",
+    "Identified Word": "ranch",
+    "British English Replacement": "farm"
+  },
+  {
+    "Occurrence Order": 105,
+    "Search Snippet": "tell you screwy things,",
+    "Surrounding Text": "George can tell you screwy things, and it don't matter.",
+    "Identified Word": "screwy",
+    "British English Replacement": "daft"
+  },
+  {
+    "Occurrence Order": 106,
+    "Search Snippet": "S'pose he took a powder",
+    "Surrounding Text": "S'pose he took a powder and just ain't coming back.",
+    "Identified Word": "took a powder",
+    "British English Replacement": "scarpered"
+  },
+  {
+    "Occurrence Order": 107,
+    "Search Snippet": "face lighted with pleasure",
+    "Surrounding Text": "Crooks' face lighted with pleasure in his torture.",
+    "Identified Word": "lighted",
+    "British English Replacement": "lit"
+  },
+  {
+    "Occurrence Order": 108,
+    "Search Snippet": "ya to the booby hatch.",
+    "Surrounding Text": "Want me to tell ya what'll happen? They'll take ya to the booby hatch.",
+    "Identified Word": "booby hatch",
+    "British English Replacement": "loony bin"
+  },
+  {
+    "Occurrence Order": 109,
+    "Search Snippet": "Lennie's eyes. centered and grew",
+    "Surrounding Text": "Suddenly Lennie's eyes. centered and grew quiet, and mad.",
+    "Identified Word": "centered",
+    "British English Replacement": "centred"
+  },
+  {
+    "Occurrence Order": 110,
+    "Search Snippet": "man's chicken ranch. Had",
+    "Surrounding Text": "I remember when I was a little kid on my old man's chicken ranch.",
+    "Identified Word": "ranch",
+    "British English Replacement": "farm"
+  },
+  {
+    "Occurrence Order": 111,
+    "Search Snippet": "road an' on the ranches,",
+    "Surrounding Text": "I seen hunderds of men come by on the road an' on the ranches, with their bindles on their back an' that same damn thing in their heads.",
+    "Identified Word": "ranches",
+    "British English Replacement": "farms"
+  },
+  {
+    "Occurrence Order": 112,
+    "Search Snippet": "ranches, with their bindles on",
+    "Surrounding Text": "I seen hunderds of men come by on the road an' on the ranches, with their bindles on their back an' that same damn thing in their heads.",
+    "Identified Word": "bindles",
+    "British English Replacement": "bundles"
+  },
+  {
+    "Occurrence Order": 113,
+    "Search Snippet": "blindly into the lighted room.",
+    "Surrounding Text": "Candy stood in the doorway scratching his bald wrist and looking blindly into the lighted room.",
+    "Identified Word": "lighted",
+    "British English Replacement": "lit"
+  },
+  {
+    "Occurrence Order": 114,
+    "Search Snippet": "embarrassed. \"I do'",
+    "Surrounding Text": "Candy seemed embarrassed.",
+    "Identified Word": "embarrassed",
+    "British English Replacement": "embarrassed"
+  },
+  {
+    "Occurrence Order": 115,
+    "Search Snippet": "still embarrassed. \"You",
+    "Surrounding Text": "Candy came in, but he was still embarrassed.",
+    "Identified Word": "embarrassed",
+    "British English Replacement": "embarrassed"
+  },
+  {
+    "Occurrence Order": 116,
+    "Search Snippet": "nice cozy little place",
+    "Surrounding Text": "You got a nice cozy little place in here,",
+    "Identified Word": "cozy",
+    "British English Replacement": "cosy"
+  },
+  {
+    "Occurrence Order": 117,
+    "Search Snippet": "it's swell.\"",
+    "Surrounding Text": "Sure, it's swell.",
+    "Identified Word": "swell",
+    "British English Replacement": "splendid"
+  },
+  {
+    "Occurrence Order": 118,
+    "Search Snippet": "In town in a whore house.",
+    "Surrounding Text": "An' where's George now? In town in a whore house.",
+    "Identified Word": "whore house",
+    "British English Replacement": "brothel"
+  },
+  {
+    "Occurrence Order": 119,
+    "Search Snippet": "time a whore house or",
+    "Surrounding Text": "I seen guys nearly crazy with loneliness for land, but ever' time a whore house or a blackjack game took what it takes.",
+    "Identified Word": "whore house",
+    "British English Replacement": "brothel"
+  },
+  {
+    "Occurrence Order": 120,
+    "Search Snippet": "eyes traveled from one",
+    "Surrounding Text": "And her eyes traveled from one face to another.",
+    "Identified Word": "traveled",
+    "British English Replacement": "travelled"
+  },
+  {
+    "Occurrence Order": 121,
+    "Search Snippet": "Swell guy, ain't he?",
+    "Surrounding Text": "Sure I gotta husban'. You all seen him. Swell guy, ain't he?",
+    "Identified Word": "Swell",
+    "British English Replacement": "Good"
+  },
+  {
+    "Occurrence Order": 122,
+    "Search Snippet": "in that twoby-four house",
+    "Surrounding Text": "Think I'm gonna stay in that twoby-four house and listen how Curley's gonna lead with his left twict, and then bring in the of right cross?",
+    "Identified Word": "twoby-four",
+    "British English Replacement": "poky little"
+  },
+  {
+    "Occurrence Order": 123,
+    "Search Snippet": "was an embarrassed silence.",
+    "Surrounding Text": "There was an embarrassed silence.",
+    "Identified Word": "embarrassed",
+    "British English Replacement": "embarrassed"
+  },
+  {
+    "Occurrence Order": 124,
+    "Search Snippet": "laughed. \"Baloney!",
+    "Surrounding Text": "Baloney!",
+    "Identified Word": "Baloney",
+    "British English Replacement": "Rubbish"
+  },
+  {
+    "Occurrence Order": 125,
+    "Search Snippet": "machine -baloney! Why, he",
+    "Surrounding Text": "Caught in a machine -baloney!",
+    "Identified Word": "baloney",
+    "British English Replacement": "rubbish"
+  },
+  {
+    "Occurrence Order": 126,
+    "Search Snippet": "You bindle bums think",
+    "Surrounding Text": "You bindle bums think you're so damn good.",
+    "Identified Word": "bindle bums",
+    "British English Replacement": "tramps"
+  },
+  {
+    "Occurrence Order": 127,
+    "Search Snippet": "put me in pitchers.",
+    "Surrounding Text": "An' a guy tol' me he could put me in pitchers.",
+    "Identified Word": "pitchers",
+    "British English Replacement": "pictures"
+  },
+  {
+    "Occurrence Order": 128,
+    "Search Snippet": "bunch of bindle stiffs-a",
+    "Surrounding Text": "Standin' here talkin' to a bunch of bindle stiffs-a nigger an' a dumdum and a lousy of sheep-n'",
+    "Identified Word": "bindle stiffs",
+    "British English Replacement": "tramps"
+  },
+  {
+    "Occurrence Order": 129,
+    "Search Snippet": "got floozy idears about",
+    "Surrounding Text": "An' I tell ya, you got floozy idears about what us guys amounts to.",
+    "Identified Word": "floozy",
+    "British English Replacement": "tartish"
+  },
+  {
+    "Occurrence Order": 130,
+    "Search Snippet": "we ain't stiffs. S'pose",
+    "Surrounding Text": "even see that we ain't stiffs.",
+    "Identified Word": "stiffs",
+    "British English Replacement": "chumps"
+  },
+  {
+    "Occurrence Order": 131,
+    "Search Snippet": "get us canned. S'pose",
+    "Surrounding Text": "S'pose you get us canned.",
+    "Identified Word": "canned",
+    "British English Replacement": "sacked"
+  },
+  {
+    "Occurrence Order": 132,
+    "Search Snippet": "hit the highway an' look",
+    "Surrounding Text": "You think we'll hit the highway an' look for another lousy two-bit job like this.",
+    "Identified Word": "highway",
+    "British English Replacement": "road"
+  },
+  {
+    "Occurrence Order": 133,
+    "Search Snippet": "lousy two-bit job like",
+    "Surrounding Text": "You think we'll hit the highway an' look for another lousy two-bit job like this.",
+    "Identified Word": "two-bit",
+    "British English Replacement": "cheap"
+  },
+  {
+    "Occurrence Order": 134,
+    "Search Snippet": "our own ranch to go",
+    "Surrounding Text": "You don't know that we got our own ranch to go to, an' our own house.",
+    "Identified Word": "ranch",
+    "British English Replacement": "farm"
+  },
+  {
+    "Occurrence Order": 135,
+    "Search Snippet": "gettin' canned, but",
+    "Surrounding Text": "Maybe there was a time when we was scared of gettin' canned, but we ain't no more.",
+    "Identified Word": "canned",
+    "British English Replacement": "sacked"
+  },
+  {
+    "Occurrence Order": 136,
+    "Search Snippet": "him. \"Baloney,\" she",
+    "Surrounding Text": "Curley's wife laughed at him. \"Baloney,\" she said.",
+    "Identified Word": "Baloney",
+    "British English Replacement": "Rubbish"
+  },
+  {
+    "Occurrence Order": 137,
+    "Search Snippet": "roll your hoop. We",
+    "Surrounding Text": "Maybe you just better go along an' roll your hoop.",
+    "Identified Word": "roll your hoop",
+    "British English Replacement": "push off"
+  },
+  {
+    "Occurrence Order": 138,
+    "Search Snippet": "us `bindle stiffs.\"'",
+    "Surrounding Text": "Curley maybe ain't gonna like his wife out in the barn with us `bindle stiffs.\"",
+    "Identified Word": "bindle stiffs",
+    "British English Replacement": "tramps"
+  },
+  {
+    "Occurrence Order": 139,
+    "Search Snippet": "eyes in embarrassment. Suddenly",
+    "Surrounding Text": "And she looked longest at Lennie, until he dropped his eyes in embarrassment.",
+    "Identified Word": "embarrassment",
+    "British English Replacement": "embarrassment"
+  },
+  {
+    "Occurrence Order": 140,
+    "Search Snippet": "like to bust him myself.",
+    "Surrounding Text": "Sometimes I'd like to bust him myself.",
+    "Identified Word": "bust",
+    "British English Replacement": "hit"
+  },
+  {
+    "Occurrence Order": 141,
+    "Search Snippet": "got it doped out how",
+    "Surrounding Text": "I got it doped out how we can even make some money on them rabbits.",
+    "Identified Word": "doped out",
+    "British English Replacement": "figured out"
+  },
+  {
+    "Occurrence Order": 142,
+    "Search Snippet": "panic he shoveled hay",
+    "Surrounding Text": "In a panic he shoveled hay over the puppy with his fingers.",
+    "Identified Word": "shoveled",
+    "British English Replacement": "shovelled"
+  },
+  {
+    "Occurrence Order": 143,
+    "Search Snippet": "four dollars bet in that",
+    "Surrounding Text": "They got four dollars bet in that tenement.",
+    "Identified Word": "dollars",
+    "British English Replacement": "pounds"
+  },
+  {
+    "Occurrence Order": 144,
+    "Search Snippet": "nuts!\" she said. \"",
+    "Surrounding Text": "Aw, nuts!",
+    "Identified Word": "nuts",
+    "British English Replacement": "rubbish"
+  },
+  {
+    "Occurrence Order": 145,
+    "Search Snippet": "in pitchers. Went out",
+    "Surrounding Text": "Nother time I met a guy, an' he was in pitchers.",
+    "Identified Word": "pitchers",
+    "British English Replacement": "pictures"
+  },
+  {
+    "Occurrence Order": 146,
+    "Search Snippet": "had pitchers took of me.",
+    "Surrounding Text": "An' I coulda sat in them big hotels, an' had pitchers took of me.",
+    "Identified Word": "pitchers",
+    "British English Replacement": "pictures"
+  },
+  {
+    "Occurrence Order": 147,
+    "Search Snippet": "in the pitcher. An'",
+    "Surrounding Text": "an' it wouldn'ta cost me a cent because I was in the pitcher.",
+    "Identified Word": "pitcher",
+    "British English Replacement": "picture"
+  },
+  {
+    "Occurrence Order": 148,
+    "Search Snippet": "nuts about rabbits?\"",
+    "Surrounding Text": "What makes you so nuts about rabbits?",
+    "Identified Word": "nuts",
+    "British English Replacement": "mad"
+  },
+  {
+    "Occurrence Order": 149,
+    "Search Snippet": "think you're nuts,\"",
+    "Surrounding Text": "I think you're nuts,",
+    "Identified Word": "nuts",
+    "British English Replacement": "mad"
+  },
+  {
+    "Occurrence Order": 150,
+    "Search Snippet": "him. \"You're nuts,",
+    "Surrounding Text": "Curley's wife laughed at him. \"You're nuts,\" she said.",
+    "Identified Word": "nuts",
+    "British English Replacement": "mad"
+  },
+  {
+    "Occurrence Order": 151,
+    "Search Snippet": "George'll be mad.\"",
+    "Surrounding Text": "Oh! Please don't do that. George'll be mad.",
+    "Identified Word": "mad",
+    "British English Replacement": "angry"
+  },
+  {
+    "Occurrence Order": 152,
+    "Search Snippet": "George'll be mad if you",
+    "Surrounding Text": "but George'll be mad if you yell.",
+    "Identified Word": "mad",
+    "British English Replacement": "angry"
+  },
+  {
+    "Occurrence Order": 153,
+    "Search Snippet": "George'll be mad. An'",
+    "Surrounding Text": "I shouldn't of did that. George'll be mad.",
+    "Identified Word": "mad",
+    "British English Replacement": "angry"
+  },
+  {
+    "Occurrence Order": 154,
+    "Search Snippet": "He's gonna be mad. In",
+    "Surrounding Text": "He's gonna be mad.",
+    "Identified Word": "mad",
+    "British English Replacement": "angry"
+  },
+  {
+    "Occurrence Order": 155,
+    "Search Snippet": "quiet on the ranch.",
+    "Surrounding Text": "It was very quiet in the barn, and the quiet of the afternoon was on the ranch.",
+    "Identified Word": "ranch",
+    "British English Replacement": "farm"
+  },
+  {
+    "Occurrence Order": 156,
+    "Search Snippet": "my fifty bucks an'",
+    "Surrounding Text": "I'll work my month an' I'll take my fifty bucks an' I'll stay all night in some lousy cat house.",
+    "Identified Word": "bucks",
+    "British English Replacement": "quid"
+  },
+  {
+    "Occurrence Order": 157,
+    "Search Snippet": "lousy cat house. Or I'll",
+    "Surrounding Text": "I'll stay all night in some lousy cat house.",
+    "Identified Word": "cat house",
+    "British English Replacement": "brothel"
+  },
+  {
+    "Occurrence Order": 158,
+    "Search Snippet": "in some poolroom till ever'body",
+    "Surrounding Text": "Or I'll set in some poolroom till ever'body goes home.",
+    "Identified Word": "poolroom",
+    "British English Replacement": "snooker hall"
+  },
+  {
+    "Occurrence Order": 159,
+    "Search Snippet": "have fifty bucks more.",
+    "Surrounding Text": "I'll have fifty bucks more.",
+    "Identified Word": "bucks",
+    "British English Replacement": "quid"
+  },
+  {
+    "Occurrence Order": 160,
+    "Search Snippet": "him go. He sniveled, and",
+    "Surrounding Text": "He sniveled, and his voice shook.",
+    "Identified Word": "sniveled",
+    "British English Replacement": "snivelled"
+  },
+  {
+    "Occurrence Order": 161,
+    "Search Snippet": "circus or a baseball game",
+    "Surrounding Text": "If they was a circus or a baseball game . . . . we would of went to her",
+    "Identified Word": "baseball game",
+    "British English Replacement": "match"
+  },
+  {
+    "Occurrence Order": 162,
+    "Search Snippet": "neck's bust. Lennie coulda",
+    "Surrounding Text": "Her neck's bust.",
+    "Identified Word": "bust",
+    "British English Replacement": "broken"
+  },
+  {
+    "Occurrence Order": 163,
+    "Search Snippet": "He's nuts, Slim. He",
+    "Surrounding Text": "He's nuts, Slim.",
+    "Identified Word": "nuts",
+    "British English Replacement": "mad"
+  },
+  {
+    "Occurrence Order": 164,
+    "Search Snippet": "Curley's still mad about his",
+    "Surrounding Text": "Curley's still mad about his hand.",
+    "Identified Word": "mad",
+    "British English Replacement": "angry"
+  },
+  {
+    "Occurrence Order": 165,
+    "Search Snippet": "get a cop. Get Al",
+    "Surrounding Text": "You go in Soledad an' get a cop.",
+    "Identified Word": "cop",
+    "British English Replacement": "policeman"
+  },
+  {
+    "Occurrence Order": 166,
+    "Search Snippet": "Get AI Wilts, he's deputy sheriff.",
+    "Surrounding Text": "Get AI Wilts, he's deputy sheriff.",
+    "Identified Word": "deputy sheriff",
+    "British English Replacement": "deputy chief constable"
+  },
+  {
+    "Occurrence Order": 167,
+    "Search Snippet": "poor bastard's nuts. Don't",
+    "Surrounding Text": "The poor bastard's nuts.",
+    "Identified Word": "nuts",
+    "British English Replacement": "mad"
+  },
+  {
+    "Occurrence Order": 168,
+    "Search Snippet": "up toward the highway.",
+    "Surrounding Text": "He led George into the entrance of the trail and up toward the highway.",
+    "Identified Word": "highway",
+    "British English Replacement": "main road"
+  },
+  {
+    "Occurrence Order": 169,
+    "Search Snippet": "have no ketchup-but I",
+    "Surrounding Text": "I can go right off there an' find a cave,\" he said. And he continued sadly, \"-an' never have no ketchup-but I won't care.",
+    "Identified Word": "ketchup",
+    "British English Replacement": "tomato sauce"
+  },
+  {
+    "Occurrence Order": 170,
+    "Search Snippet": "they was any ketchup, why",
+    "Surrounding Text": "An' if they was any ketchup, why he'd give it all to you.",
+    "Identified Word": "ketchup",
+    "British English Replacement": "tomato sauce"
+  },
+  {
+    "Occurrence Order": 171,
+    "Search Snippet": "in a whore house, and",
+    "Surrounding Text": "He woulda took his pay an' raised hell in a whore house, and he coulda set in a poolroom an' played snooker.",
+    "Identified Word": "whore house",
+    "British English Replacement": "brothel"
+  },
+  {
+    "Occurrence Order": 172,
+    "Search Snippet": "set in a poolroom an'",
+    "Surrounding Text": "he coulda set in a poolroom an' played snooker.",
+    "Identified Word": "poolroom",
+    "British English Replacement": "snooker hall"
+  },
+  {
+    "Occurrence Order": 173,
+    "Search Snippet": "take my fifty bucks'",
+    "Surrounding Text": "take my fifty bucks' \"",
+    "Identified Word": "bucks",
+    "British English Replacement": "quid"
+  },
+  {
+    "Occurrence Order": 174,
+    "Search Snippet": "take my fifty bucks an'",
+    "Surrounding Text": "An' when the end of the month come I could take my fifty bucks an' go to a . . . . cat house.",
+    "Identified Word": "bucks",
+    "British English Replacement": "quid"
+  },
+  {
+    "Occurrence Order": 175,
+    "Search Snippet": ". . . . cat house. .",
+    "Surrounding Text": "An' when the end of the month come I could take my fifty bucks an' go to a . . . . cat house.",
+    "Identified Word": "cat house",
+    "British English Replacement": "brothel"
+  },
+  {
+    "Occurrence Order": 176,
+    "Search Snippet": "was mad at me, George.",
+    "Surrounding Text": "I thought you was mad at me, George.",
+    "Identified Word": "mad",
+    "British English Replacement": "angry"
+  },
+  {
+    "Occurrence Order": 177,
+    "Search Snippet": "Lennie. I ain't mad. I",
+    "Surrounding Text": "No, Lennie. I ain't mad.",
+    "Identified Word": "mad",
+    "British English Replacement": "angry"
+  },
+  {
+    "Occurrence Order": 178,
+    "Search Snippet": "I never been mad, an'",
+    "Surrounding Text": "I never been mad, an' I ain't now.",
+    "Identified Word": "mad",
+    "British English Replacement": "angry"
+  }
+]
