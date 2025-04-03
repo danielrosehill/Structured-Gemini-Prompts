@@ -1,0 +1,17 @@
+{
+    "type": "object",
+    "properties": {
+      "Search Snippet": {
+        "type": "string"
+      },
+      "Surrounding Text": {
+        "type": "string"
+      },
+      "Identified Word": {
+        "type": "string"
+      },
+      "British English Replacement": {
+        "type": "string"
+      }
+    }
+  }

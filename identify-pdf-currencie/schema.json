@@ -1,0 +1,26 @@
+{
+    "type": "object",
+    "properties": {
+      "Surrounding Text": {
+        "type": "number"
+      },
+      "Page Reference": {
+        "type": "string"
+      },
+      "Correct Currency": {
+        "type": "string"
+      },
+      "Foreign Currency Identifier": {
+        "type": "string"
+      },
+      "Applicable Rate": {
+        "type": "boolean"
+      },
+      "Required Rate": {
+        "type": "string"
+      },
+      "Rate Write As": {
+        "type": "string"
+      }
+    }
+  }
