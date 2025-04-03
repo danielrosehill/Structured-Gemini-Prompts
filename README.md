@@ -30,3 +30,11 @@ Each example contains:
 - Enhanced Analysis: Leverage Gemini 2.5's extended output capacity for comprehensive document analysis
 - Format Conversion: Generate structured data that easily converts to various formats
 - Scalable Approach: Add as many custom workloads as needed
+  
+  ## Visual Schema Editor (Google AI Studio)
+
+  Enormously useful!
+
+  ![alt text](screenshots/1.png)
+
+  ![alt text](screenshots/2.png)
